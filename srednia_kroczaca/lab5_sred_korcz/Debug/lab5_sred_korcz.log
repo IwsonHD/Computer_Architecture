@@ -1,0 +1,4 @@
+﻿  caller.c
+C:\Users\Iwo\Desktop\projekty_PG\Assembler\lab5_sred_korcz\lab5_sred_korcz\caller.c(6,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Iwo\Desktop\projekty_PG\Assembler\lab5_sred_korcz\lab5_sred_korcz\caller.c(13,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  lab5_sred_korcz.vcxproj -> C:\Users\Iwo\Desktop\projekty_PG\Assembler\lab5_sred_korcz\Debug\lab5_sred_korcz.exe

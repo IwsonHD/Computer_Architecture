@@ -1,0 +1,3 @@
+﻿  Assembling write_96_hex.asm...
+write_96_hex.asm(129): error A2031: must be index or base register
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\write_96_hex.obj" /W3 /errorReport:prompt  /Tawrite_96_hex.asm" exited with code 1.
